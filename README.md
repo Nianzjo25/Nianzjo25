@@ -1,6 +1,6 @@
 <!-- Profil GitHub de Nianzjo25 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,100:00d9ff&height=200&section=header&text=Nianz%20Jo&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=D%C3%A9veloppeur%20Full%20Stack%20%E2%80%A2%20Backend%20%E2%80%A2%20API&descAlignY=55&descAlign=50&descSize=18" width="100%" alt="Nianz Jo Banner" />
+  <img src="./assets/banner.svg" width="100%" alt="Nianz Jo Banner" />
 
   <br/>
 
