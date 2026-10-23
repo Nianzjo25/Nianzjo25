@@ -1,6 +1,6 @@
 <!-- Profil GitHub de Nianzjo25 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,100:00d9ff&height=200&section=header&text=Nianz%20Jo&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=D%C3%A9veloppeur%20Full%20Stack%20%7C%20Backend%20%26%20API&descAlignY=55&descAlign=50&descSize=18" width="100%" alt="Nianz Jo Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,100:00d9ff&height=200&section=header&text=Nianz%20Jo&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=D%C3%A9veloppeur%20Full%20Stack%20%E2%80%A2%20Backend%20%E2%80%A2%20API&descAlignY=55&descAlign=50&descSize=18" width="100%" alt="Nianz Jo Banner" />
 
   <br/>
 
@@ -39,7 +39,7 @@
 ![Flutter](https://img.shields.io/badge/Flutter-0B1220?style=flat-square&logo=flutter&logoColor=00D9FF)
 
 **Bases de données & Outils**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0B1220?style=flat-square&logo=postgresql&logoColor=00D9FF)
+![PostgreSQL](https://img.shields.io/badge/Postgres-0B1220?style=flat-square&logo=postgresql&logoColor=00D9FF)
 ![MySQL](https://img.shields.io/badge/MySQL-0B1220?style=flat-square&logo=mysql&logoColor=00D9FF)
 ![Git](https://img.shields.io/badge/Git-0B1220?style=flat-square&logo=git&logoColor=00D9FF)
 ![Docker](https://img.shields.io/badge/Docker-0B1220?style=flat-square&logo=docker&logoColor=00D9FF)
